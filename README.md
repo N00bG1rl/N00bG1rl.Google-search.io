@@ -1,6 +1,6 @@
 Created by Helen
 
-[View in browser](https://n00bg1rl.github.io/google-search/)
+[View In Browser](https://n00bg1rl.github.io/google-search/)
 
 [Odin Project: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
